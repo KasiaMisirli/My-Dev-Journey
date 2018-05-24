@@ -1,5 +1,5 @@
 # My Dev Journey
-Visit our web app here: http://my-dev-journey.herokuapp.com/
+Visit our web app [here](http://my-dev-journey.herokuapp.com/).
 
 # About us
 We are a group of aspiring web developers wanting to execute what we have learnt in class e.g Ruby on Rails, AJAX and JavaScript, html and CSS. This is a group project as part of our WDI-15 course at General Assembly, Melbourne.
